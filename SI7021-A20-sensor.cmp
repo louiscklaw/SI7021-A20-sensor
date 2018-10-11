@@ -1,0 +1,139 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu Oct 11 21:50:59 2018
+
+BeginCmp
+TimeStamp = 5BB904FB
+Path = /5BB8F97A
+Reference = U2;
+ValeurCmp = MIC5225-3.3;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB904E6
+Path = /5BB8F467
+Reference = U1;
+ValeurCmp = Si7021-A20;
+IdModule  = w_smd_qfn:dfn6-3x3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB92907
+Path = /5BB918D7
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = Package_TO_SOT_SMD:TSOT-23_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB90F63
+Path = /5BB919FC
+Reference = Q2;
+ValeurCmp = BSS138;
+IdModule  = Package_TO_SOT_SMD:TSOT-23_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB91586
+Path = /5BBA4FE1
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB9159B
+Path = /5BBA505F
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB9049A
+Path = /5BB91F81
+Reference = R1;
+ValeurCmp = 103;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB904AB
+Path = /5BB91FE1
+Reference = R2;
+ValeurCmp = 103;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB90936
+Path = /5BB9207D
+Reference = R3;
+ValeurCmp = 103;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB904CD
+Path = /5BB9202B
+Reference = R4;
+ValeurCmp = 103;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB915BD
+Path = /5BBA4EA4
+Reference = R6;
+ValeurCmp = 501;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBF7AE9
+Path = /5BBA4E26
+Reference = R5;
+ValeurCmp = 102;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB90424
+Path = /5BB8F5AF
+Reference = C1;
+ValeurCmp = 104;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB90435
+Path = /5BB8FA2E
+Reference = C2;
+ValeurCmp = 106;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB90988
+Path = /5BB8FBAE
+Reference = C3;
+ValeurCmp = 106;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB9045F
+Path = /5BB9B6E3
+Reference = J1;
+ValeurCmp = Conn_01x05;
+IdModule  = footprint-lib:Pin_Header_Straight_1x05_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCDAB8D
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+EndListe
