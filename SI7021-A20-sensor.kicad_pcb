@@ -811,8 +811,8 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   )
 
-  (gr_text SI7021-A20 (at 54.229 27.686) (layer F.SilkS)
-    (effects (font (size 1.2 1.2) (thickness 0.2)))
+  (gr_text "SI7021-A20\nBREAKOUT BOARD" (at 49.53 27.94) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)) (justify left))
   )
   (gr_text GND (at 60.96 47.944286 90) (layer F.SilkS) (tstamp 5BCE01FC)
     (effects (font (size 1.2 1.2) (thickness 0.2)))
